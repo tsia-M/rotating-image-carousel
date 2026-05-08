@@ -22,4 +22,4 @@ An interactive 3D image carousel and mobile card deck built using HTML, CSS, and
 - State-based UI interactions
 
 ## Live Demo
-https://tsia-m.github.io/Rotating-Image-Gallery-V3/
+[https://tsia-m.github.io/Rotating-Image-Gallery-V3/](https://tsia-m.github.io/rotating-image-carousel/)
